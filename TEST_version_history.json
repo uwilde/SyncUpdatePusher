@@ -1,15 +1,15 @@
 {
     "credentials2.json": {
-        "local_version": 1,
-        "drive_version": 1
-    },
-    "AdobeStock_328735184.jpeg": {
         "local_version": 2,
         "drive_version": 2
     },
+    "AdobeStock_328735184.jpeg": {
+        "local_version": 3,
+        "drive_version": 3
+    },
     "TEST_version_history.json": {
-        "local_version": 1,
-        "drive_version": 1
+        "local_version": 2,
+        "drive_version": 2
     },
     ".git\\logs\\refs\\remotes\\origin\\main": {
         "local_version": 1,
