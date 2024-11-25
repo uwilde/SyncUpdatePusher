@@ -4,7 +4,351 @@
         "drive_version": 1
     },
     "AdobeStock_328735184.jpeg": {
-        "local_version": 2,
-        "drive_version": 2
+        "local_version": 1,
+        "drive_version": 1
+    },
+    "TEST_version_history.json": {
+        "local_version": 1,
+        "drive_version": 1
+    },
+    ".git\\logs\\refs\\remotes\\origin\\main": {
+        "local_version": 1,
+        "drive_version": 1
+    },
+    ".git\\objects\\0c\\1bf4f4a9232983200a2777e4f7507873723fa6": {
+        "local_version": 1,
+        "drive_version": 1
+    },
+    ".git\\objects\\b8\\218a2bc8b3b99fc80a5a10f76f87122a85c8fc": {
+        "local_version": 1,
+        "drive_version": 1
+    },
+    ".git\\refs\\remotes\\origin\\main": {
+        "local_version": 1,
+        "drive_version": 1
+    },
+    ".git\\objects\\49\\cc87a99eae6d6ad96840bf1697c184d745c310": {
+        "local_version": 1,
+        "drive_version": 1
+    },
+    ".git\\objects\\59\\fae364a9fae171b5422fe73d8447daee19e12c": {
+        "local_version": 1,
+        "drive_version": 1
+    },
+    ".git\\objects\\24\\4712eda28b5521d439e537fba9d088ab1639b3": {
+        "local_version": 1,
+        "drive_version": 1
+    },
+    ".git\\objects\\94\\61d0b67b1698e5c5930dbcc69af8922aadde49": {
+        "local_version": 1,
+        "drive_version": 1
+    },
+    ".git\\info\\exclude": {
+        "local_version": 1,
+        "drive_version": 1
+    },
+    ".git\\objects\\ec\\738d7d182f83feddf1cace73ce9e9fe005b897": {
+        "local_version": 1,
+        "drive_version": 1
+    },
+    ".git\\FETCH_HEAD": {
+        "local_version": 1,
+        "drive_version": 1
+    },
+    ".git\\objects\\76\\3942fcad11b58438e86a16efb77f36a4f0f546": {
+        "local_version": 1,
+        "drive_version": 1
+    },
+    ".git\\objects\\a2\\1eb18bd861c9f0919465e02490af2fac882b3b": {
+        "local_version": 1,
+        "drive_version": 1
+    },
+    ".git\\objects\\55\\463ba6d761f11c488d1b85ecf508fcac8982e2": {
+        "local_version": 1,
+        "drive_version": 1
+    },
+    ".git\\hooks\\pre-applypatch.sample": {
+        "local_version": 1,
+        "drive_version": 1
+    },
+    ".git\\objects\\35\\03882cb4db293887d89ce25f0216fb9936c8a1": {
+        "local_version": 1,
+        "drive_version": 1
+    },
+    ".git\\objects\\f0\\467e2843790cf3d5e1bfb4a53fad61b134e290": {
+        "local_version": 1,
+        "drive_version": 1
+    },
+    ".git\\objects\\b1\\0ad1caa277f05f7c4cbeaee4e36ee57e2511df": {
+        "local_version": 1,
+        "drive_version": 1
+    },
+    ".git\\objects\\54\\246b7963baec589ed15c897f501eacbd92f51b": {
+        "local_version": 1,
+        "drive_version": 1
+    },
+    ".git\\objects\\2e\\32c3dd64bdeb6f3e6468e6f95641233388eee3": {
+        "local_version": 1,
+        "drive_version": 1
+    },
+    ".git\\objects\\02\\4f331390302f0421d54b9bcf191c8c32f4b689": {
+        "local_version": 1,
+        "drive_version": 1
+    },
+    ".git\\config": {
+        "local_version": 1,
+        "drive_version": 1
+    },
+    ".git\\objects\\43\\fec5974851278c08dbad0339285997a6272ccc": {
+        "local_version": 1,
+        "drive_version": 1
+    },
+    ".git\\objects\\d5\\c1faafbcbc7913bab42d80f5820e234085c3dc": {
+        "local_version": 1,
+        "drive_version": 1
+    },
+    ".git\\objects\\d0\\0491fd7e5bb6fa28c517a0bb32b8b506539d4d": {
+        "local_version": 1,
+        "drive_version": 1
+    },
+    ".git\\objects\\07\\afc6a1d628c570654988a0b44a3832219e51d3": {
+        "local_version": 1,
+        "drive_version": 1
+    },
+    ".git\\hooks\\post-update.sample": {
+        "local_version": 1,
+        "drive_version": 1
+    },
+    ".git\\objects\\89\\051b860c3e571fee68eaeed5952010883aea3e": {
+        "local_version": 1,
+        "drive_version": 1
+    },
+    ".git\\objects\\ac\\7deafb3060c23968072f37c4663a400ce5f71a": {
+        "local_version": 1,
+        "drive_version": 1
+    },
+    ".git\\objects\\6e\\8cc80964c5e9b7f72f730639e91eb86e17d720": {
+        "local_version": 1,
+        "drive_version": 1
+    },
+    ".git\\objects\\eb\\dcbfe6dad6d21d46a850988d0ae7aee721add1": {
+        "local_version": 1,
+        "drive_version": 1
+    },
+    ".git\\objects\\3f\\84199859b1b2b38679cc174ca214cd1406a688": {
+        "local_version": 1,
+        "drive_version": 1
+    },
+    ".git\\objects\\b8\\3b416f183f6425ccfb9925da11c1d52690e8ed": {
+        "local_version": 1,
+        "drive_version": 1
+    },
+    ".git\\objects\\45\\853ac356b15951a6b5a0e67938769db04fcd51": {
+        "local_version": 1,
+        "drive_version": 1
+    },
+    ".git\\hooks\\pre-rebase.sample": {
+        "local_version": 1,
+        "drive_version": 1
+    },
+    ".git\\hooks\\applypatch-msg.sample": {
+        "local_version": 1,
+        "drive_version": 1
+    },
+    ".git\\objects\\58\\7675f6441b4b2740abc5feb65384b745d1af67": {
+        "local_version": 1,
+        "drive_version": 1
+    },
+    ".git\\objects\\ad\\7926ff8d0b5a93c16a9fcd5b7fd6fc432e5873": {
+        "local_version": 1,
+        "drive_version": 1
+    },
+    ".git\\objects\\80\\d8e92fe6d410d7b8ec82a54d5234c466d6532a": {
+        "local_version": 1,
+        "drive_version": 1
+    },
+    ".git\\objects\\e5\\8b812210f99578c6ad3d90e74135b10646f0b9": {
+        "local_version": 1,
+        "drive_version": 1
+    },
+    ".git\\objects\\16\\69858144a777fd1f00b0428fb66f8b29395b56": {
+        "local_version": 1,
+        "drive_version": 1
+    },
+    ".git\\objects\\c0\\e533f6a307b348c308effe35f635818bcdddea": {
+        "local_version": 1,
+        "drive_version": 1
+    },
+    ".git\\hooks\\sendemail-validate.sample": {
+        "local_version": 1,
+        "drive_version": 1
+    },
+    ".git\\objects\\3e\\4e7a4bade84409885a6cc5585673bbad334fc2": {
+        "local_version": 1,
+        "drive_version": 1
+    },
+    ".git\\objects\\7f\\685bc112ac767188944109f0aee4e6d83b4856": {
+        "local_version": 1,
+        "drive_version": 1
+    },
+    ".git\\objects\\e3\\55012b0b0e7501c2662feb8efb12d9c48c3186": {
+        "local_version": 1,
+        "drive_version": 1
+    },
+    ".git\\hooks\\pre-receive.sample": {
+        "local_version": 1,
+        "drive_version": 1
+    },
+    ".git\\objects\\28\\413897a1b2f4a9f662303d814fa55acbcd7d26": {
+        "local_version": 1,
+        "drive_version": 1
+    },
+    ".git\\objects\\82\\7ac208d4421584d4dbb5511979e851d80f9f7d": {
+        "local_version": 1,
+        "drive_version": 1
+    },
+    ".git\\hooks\\commit-msg.sample": {
+        "local_version": 1,
+        "drive_version": 1
+    },
+    ".git\\objects\\52\\251300124014545c32e8be1819b0d032c87ece": {
+        "local_version": 1,
+        "drive_version": 1
+    },
+    ".git\\hooks\\pre-push.sample": {
+        "local_version": 1,
+        "drive_version": 1
+    },
+    ".git\\description": {
+        "local_version": 1,
+        "drive_version": 1
+    },
+    ".git\\objects\\41\\02725b8ccbe5c7f25f4bd8da5fa86c6a3140b2": {
+        "local_version": 1,
+        "drive_version": 1
+    },
+    ".git\\hooks\\update.sample": {
+        "local_version": 1,
+        "drive_version": 1
+    },
+    ".git\\objects\\53\\4df03a3af99b7d2c6a8036ea23d282cc64a917": {
+        "local_version": 1,
+        "drive_version": 1
+    },
+    ".git\\objects\\49\\7a8e5944cf08f6505ed4030e910817003f39c6": {
+        "local_version": 1,
+        "drive_version": 1
+    },
+    ".git\\objects\\05\\9241d43fb133e869651626e1d843da3cfb3b18": {
+        "local_version": 1,
+        "drive_version": 1
+    },
+    ".git\\objects\\a2\\f07481392ff7a7200ec27d66d057e4b32862c0": {
+        "local_version": 1,
+        "drive_version": 1
+    },
+    ".git\\refs\\heads\\master": {
+        "local_version": 1,
+        "drive_version": 1
+    },
+    ".git\\objects\\59\\7db7a7e4513a578fdae0009e6e79338364656c": {
+        "local_version": 1,
+        "drive_version": 1
+    },
+    ".git\\objects\\99\\76de55e27e2145fbfe11e9984f4177db94a384": {
+        "local_version": 1,
+        "drive_version": 1
+    },
+    ".git\\hooks\\pre-merge-commit.sample": {
+        "local_version": 1,
+        "drive_version": 1
+    },
+    ".git\\objects\\8c\\64262bc9ba2a175f3a1019ca861dc55926c295": {
+        "local_version": 1,
+        "drive_version": 1
+    },
+    ".git\\objects\\9e\\26dfeeb6e641a33dae4961196235bdb965b21b": {
+        "local_version": 1,
+        "drive_version": 1
+    },
+    ".git\\objects\\e9\\25487a07ab2d64bec9572e3c194bd61f86489e": {
+        "local_version": 1,
+        "drive_version": 1
+    },
+    ".git\\objects\\e6\\9de29bb2d1d6434b8b29ae775ad8c2e48c5391": {
+        "local_version": 1,
+        "drive_version": 1
+    },
+    ".git\\objects\\64\\6c3fd0d0af454d70fa8cf90a47f60204d006d4": {
+        "local_version": 1,
+        "drive_version": 1
+    },
+    ".git\\objects\\d7\\85509cb7de681773f43e463dc0945697b08312": {
+        "local_version": 1,
+        "drive_version": 1
+    },
+    ".git\\index": {
+        "local_version": 1,
+        "drive_version": 1
+    },
+    ".git\\objects\\2f\\20d0a3d8823e7eb55ec42fa4ce2da2271ef4f5": {
+        "local_version": 1,
+        "drive_version": 1
+    },
+    ".git\\logs\\refs\\heads\\master": {
+        "local_version": 1,
+        "drive_version": 1
+    },
+    ".git\\hooks\\fsmonitor-watchman.sample": {
+        "local_version": 1,
+        "drive_version": 1
+    },
+    ".git\\objects\\8c\\f26b88cbe09bb494198f705c678631da758cf8": {
+        "local_version": 1,
+        "drive_version": 1
+    },
+    ".git\\objects\\66\\e052d72d5e61aa09be7015c1034f52e2f7280b": {
+        "local_version": 1,
+        "drive_version": 1
+    },
+    ".git\\hooks\\pre-commit.sample": {
+        "local_version": 1,
+        "drive_version": 1
+    },
+    ".git\\hooks\\push-to-checkout.sample": {
+        "local_version": 1,
+        "drive_version": 1
+    },
+    ".git\\logs\\HEAD": {
+        "local_version": 1,
+        "drive_version": 1
+    },
+    ".git\\objects\\58\\6ef32ffc8951338f5b57f0c3be94df67959612": {
+        "local_version": 1,
+        "drive_version": 1
+    },
+    ".git\\objects\\b3\\f5e7e5eecd28bfbaa751eeed8548623293ae68": {
+        "local_version": 1,
+        "drive_version": 1
+    },
+    ".git\\objects\\ec\\7b61065788cc399eefd1ce6b73b461b4e3c707": {
+        "local_version": 1,
+        "drive_version": 1
+    },
+    ".git\\HEAD": {
+        "local_version": 1,
+        "drive_version": 1
+    },
+    ".git\\objects\\e1\\f87000cea5c0eaa62c80ea00046668550dbd90": {
+        "local_version": 1,
+        "drive_version": 1
+    },
+    ".git\\hooks\\prepare-commit-msg.sample": {
+        "local_version": 1,
+        "drive_version": 1
+    },
+    ".git\\objects\\db\\ecf6a6c6419a68310d4ada6f43c464ed841f91": {
+        "local_version": 1,
+        "drive_version": 1
     }
 }
