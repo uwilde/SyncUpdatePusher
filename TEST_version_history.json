@@ -1,14 +1,14 @@
 {
     "credentials2.json": {
-        "local_version": 2,
-        "drive_version": 2
+        "local_version": 3,
+        "drive_version": 3
     },
     "AdobeStock_328735184.jpeg": {
-        "local_version": 2,
-        "drive_version": 2
+        "local_version": 3,
+        "drive_version": 3
     },
     "TEST_version_history.json": {
-        "local_version": 2,
-        "drive_version": 2
+        "local_version": 3,
+        "drive_version": 3
     }
 }
